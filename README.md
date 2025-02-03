@@ -27,7 +27,4 @@ This is an expense tracker application built with a backend that implements JWT 
 
 To get started, follow the steps below:
 
-### 1. Clone the repository
-```bash
-git clone https://github.com/Praxxav/expense-tracker-backend.git
-cd expense-tracker-backend
+![Screenshot](Screenshot%20(10).png)
