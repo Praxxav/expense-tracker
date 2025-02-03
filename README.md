@@ -23,8 +23,10 @@ This is an expense tracker application built with a backend that implements JWT 
 - **Prisma ORM**: Used to interact with the PostgreSQL database.
 - **PostgreSQL**: Database for storing user data and expenses.
 
-## Setup
 
-To get started, follow the steps below:
+## Screenshots:
+![Screenshot](Screenshot%20(11).png)
+![Screenshot](Screenshot%20(9).png)
+![Screenshot](Screenshot%20(11).png)
 
 ![Screenshot](Screenshot%20(10).png)
