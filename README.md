@@ -25,7 +25,7 @@ This is an expense tracker application built with a backend that implements JWT 
 
 
 ## Screenshots:
-![Screenshot](Screenshot%20(11).png)
+![Screenshot](Screenshot%20(8).png)
 ![Screenshot](Screenshot%20(9).png)
 ![Screenshot](Screenshot%20(11).png)
 
